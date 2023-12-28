@@ -1,0 +1,8 @@
+/* handle variable font*/
+
+@font-face {
+  font-family: "Sprig Sans";
+  font-weight: 100 900;
+  src: url("./FAIRE-SprigSans-Variable.woff2") format("woff2-variations");
+  font-display: swap;
+}
